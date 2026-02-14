@@ -1,6 +1,8 @@
 # Store Wizard
 
-<img width="512" height="512" alt="Super_Duper_Nate_ios_style_app_icon_with_wizard_hat_tickets_and_3f1be71a-2fa5-4774-8fc5-f925777ce03d" src="https://github.com/user-attachments/assets/c84fbfbe-2fc3-473c-9eaa-afc7bc2588c9" />
+<p align="center">
+  <img width="300" height="300" alt="Store Wizard Icon" src="https://github.com/user-attachments/assets/c84fbfbe-2fc3-473c-9eaa-afc7bc2588c9" />
+</p>
 
 A macOS utility that helps developers price their App Store subscriptions fairly across different countries using Purchasing Power Parity (PPP).
 
