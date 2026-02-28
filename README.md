@@ -40,6 +40,15 @@ This app runs locally on your machine. Your App Store Connect API keys are store
 
 Download the latest release from the [Releases Page](../../releases).
 
+## ☕ Support Store Wizard
+
+If you find Store Wizard helpful and want to support its development, feel free to buy me a coffee!
+
+<a href="https://www.buymeacoffee.com/marcelolaprea" target="_blank">
+<img alt="qr-code" src="https://github.com/user-attachments/assets/d38894a7-0d3b-4d50-a4e6-c9a8eb88664d" style="height: 60px !important;width: 217px !important;"/>
+</a>
+
 ---
-Created by [Marcelo Laprea](https://github.com/lapreamarcelo) 
-X: https://x.com/marcelojose_dev
+Created by [Marcelo Laprea](https://github.com/lapreamarcelo)  
+X: [https://x.com/marcelojose_dev](https://x.com/marcelojose_dev)
+
