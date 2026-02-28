@@ -45,7 +45,7 @@ Download the latest release from the [Releases Page](../../releases).
 If you find Store Wizard helpful and want to support its development, feel free to buy me a coffee!
 
 <a href="https://www.buymeacoffee.com/marcelolaprea" target="_blank">
-<img alt="qr-code" src="https://github.com/user-attachments/assets/d38894a7-0d3b-4d50-a4e6-c9a8eb88664d" style="height: 60px !important;width: 217px !important;"/>
+<img alt="qr-code" src="https://github.com/user-attachments/assets/d38894a7-0d3b-4d50-a4e6-c9a8eb88664d" style="height: 217px !important;width: 217px !important;"/>
 </a>
 
 ---
